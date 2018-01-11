@@ -3,9 +3,17 @@
 <pydev_pathproperty name="org.python.pydev.PROJECT_SOURCE_PATH">
 <path>/${PROJECT_DIR_NAME}</path>
 </pydev_pathproperty>
-<pydev_property name="org.python.pydev.PYTHON_PROJECT_VERSION">python 3.0</pydev_property>
-<pydev_property name="org.python.pydev.PYTHON_PROJECT_INTERPRETER">python</pydev_property>
+<pydev_property name="org.python.pydev.PYTHON_PROJECT_VERSION">python 3.6</pydev_property>
+<pydev_property name="org.python.pydev.PYTHON_PROJECT_INTERPRETER">Default</pydev_property>
 <pydev_pathproperty name="org.python.pydev.PROJECT_EXTERNAL_SOURCE_PATH">
-<path>Z:\williamyizhu On My Mac\Documents\workspace\PyShare\PyShare</path>
+<path>Z:\Documents\workspace\PyShare\PyShare</path>
+<path>Z:\Documents\workspace\PyShare\OptionAnalysis</path>
+<path>Z:\Documents\workspace\PyShare\VolatilityModel</path>
+<path>Z:\Documents\workspace\PyShare\PricingModel</path>
+<path>Z:\Documents\workspace\PyCtp2</path>
+<path>Z:\Documents\workspace\PyShare\Ui</path>
+<path>Z:\Documents\workspace\PyOption\Gui</path>
+<path>Z:\Documents\workspace\PyOption\Rds</path>
+<path>Z:\Documents\workspace\PyOption\Ctp</path>
 </pydev_pathproperty>
 </pydev_project>
